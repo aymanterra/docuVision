@@ -1,0 +1,4 @@
+[server]
+runOnSave = true
+allowRunOnSave = true
+port = 80
